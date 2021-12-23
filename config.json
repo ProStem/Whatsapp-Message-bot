@@ -1,0 +1,12 @@
+{
+    "Channels" : {
+        "GroupID": ""
+    },
+
+    "Sql" : {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    }
+}
